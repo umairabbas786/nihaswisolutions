@@ -107,17 +107,17 @@
                         ligula porta felis euismod semper. Vestibulum id ligula.</p>
                     <div class="row counter-wrapper gy-6">
                         <div class="col-md-4">
-                            <h3 class="counter text-primary">7518</h3>
+                            <h3 class="counter text-primary">1500</h3>
                             <p>Completed Projects</p>
                         </div>
                         <!--/column -->
                         <div class="col-md-4">
-                            <h3 class="counter text-primary">3472</h3>
+                            <h3 class="counter text-primary">1350</h3>
                             <p>Satisfied Customers</p>
                         </div>
                         <!--/column -->
                         <div class="col-md-4">
-                            <h3 class="counter text-primary">2184</h3>
+                            <h3 class="counter text-primary">100</h3>
                             <p>Expert Employees</p>
                         </div>
                         <!--/column -->

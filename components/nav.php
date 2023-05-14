@@ -25,8 +25,8 @@
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Our Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="portfolio.php">Our Projects</a></li>
+                        <li class="nav-item"><a class="nav-link" href="services.php">Our Services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="project.php">Our Projects</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
                     </ul>
                     <!-- /.navbar-nav -->
