@@ -1,4 +1,4 @@
-<footer class="bg-soft-primary">
+<footer class="bg-soft-primary mt-5 pt-5">
   <div class="container">
     <div class="row">
       <div class="col-xl-11 col-xxl-10 mx-auto">
