@@ -39,7 +39,7 @@
                                 long-term relationships with customers.</p>
                             <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown"
                                 data-group="page-title-buttons" data-delay="900">
-                                <span><a href="#" class="btn btn-lg btn-outline-primary rounded-pill">Contact
+                                <span><a href="contact.php" class="btn btn-lg btn-outline-primary rounded-pill">Contact
                                         Us</a></span>
                             </div>
                         </div>
@@ -79,7 +79,7 @@
                                 <h4>SEO Services</h4>
                                 <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
                                     gravida at eget metus cras justo.</p>
-                                <a href="#" class="more hover link-yellow">Learn More</a>
+                                <!-- <a href="#" class="more hover link-yellow">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
                         </div>
@@ -94,7 +94,7 @@
                                 <h4>Web Design</h4>
                                 <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
                                     gravida at eget metus cras justo.</p>
-                                <a href="#" class="more hover link-red">Learn More</a>
+                                <!-- <a href="#" class="more hover link-red">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
                         </div>
@@ -109,7 +109,7 @@
                                 <h4>Social Engagement</h4>
                                 <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
                                     gravida at eget metus cras justo.</p>
-                                <a href="#" class="more hover link-green">Learn More</a>
+                                <!-- <a href="#" class="more hover link-green">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
                         </div>
@@ -124,7 +124,7 @@
                                 <h4>Content Marketing</h4>
                                 <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
                                     gravida at eget metus cras justo.</p>
-                                <a href="#" class="more hover link-blue">Learn More</a>
+                                <!-- <a href="#" class="more hover link-blue">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
                         </div>
@@ -211,7 +211,6 @@
                     <p class="mb-6">Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta
                         felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est
                         at lobortis. Vestibulum id ligula porta felis.</p>
-                    <a href="#" class="btn btn-primary rounded-pill mb-0">Learn More</a>
                 </div>
                 <!--/column -->
             </div>
@@ -403,8 +402,6 @@
                     <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
                     <h3 class="display-5 mb-4">If you don't see an answer to your question, you can send us an email
                         from our contact form.</h3>
-                    <!-- <p class="lead mb-6">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare.</p> -->
-                    <a href="#" class="btn btn-primary rounded-pill">All FAQ</a>
                 </div>
                 <!--/column -->
                 <div class="col-lg-6">
