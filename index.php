@@ -221,161 +221,291 @@
     </section>
     <!-- /section -->
     <section class="wrapper bg-light">
-  <div class="container pt-14 pt-md-16">
-    <div class="card bg-soft-primary  p-5 nded-4">
-      <div class="card-body py-0 px-lg-0">
-        <div class="row text-center">
-          <div class="col-lg-8 offset-lg-2">
-            <h2 class="fs-16 text-uppercase text-primary mb-3">Happy Customers</h2>
-            <h3 class="display-4 mb-10 px-xxl-10">Don't take our word for it. See what customers are saying about us.</h3>
-          </div>
-          <!-- /column -->
-        </div>
-        <!-- /.row -->
-        <div class="row gx-lg-8 gx-xl-12 align-items-center">
-          <div class="col-lg-5 ms-auto col-xl-4 d-none d-lg-flex">
-            <div class="img-mask mask-3"><img src="./assets/img/photos/about28.jpg" srcset="./assets/img/photos/about28@2x.jpg 2x" alt="" /></div>
-          </div>
-          <!--/column -->
-          <div class="col-lg-6 col-xl-6 col-xxl-5 me-auto">
-            <div class="swiper-container dots-start dots-closer mb-6" data-margin="30" data-dots="true">
-              <div class="swiper">
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <span class="ratings five mb-3"></span>
-                    <blockquote class="border-0 fs-lg mb-0">
-                      <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
-                      <div class="blockquote-details">
-                        <div class="info ps-0">
-                          <h5 class="mb-1">Coriss Ambady</h5>
-                          <p class="mb-0">Financial Analyst</p>
+        <div class="container pt-14 pt-md-16">
+            <div class="card bg-soft-primary  p-5 nded-4">
+                <div class="card-body py-0 px-lg-0">
+                    <div class="row text-center">
+                        <div class="col-lg-8 offset-lg-2">
+                            <h2 class="fs-16 text-uppercase text-primary mb-3">Happy Customers</h2>
+                            <h3 class="display-4 mb-10 px-xxl-10">Don't take our word for it. See what customers are
+                                saying about us.</h3>
                         </div>
-                      </div>
-                    </blockquote>
-                  </div>
-                  <!--/.swiper-slide -->
-                  <div class="swiper-slide">
-                    <span class="ratings five mb-3"></span>
-                    <blockquote class="border-0 fs-lg mb-0">
-                      <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
-                      <div class="blockquote-details">
-                        <div class="info ps-0">
-                          <h5 class="mb-1">Cory Zamora</h5>
-                          <p class="mb-0">Marketing Specialist</p>
+                        <!-- /column -->
+                    </div>
+                    <!-- /.row -->
+                    <div class="row gx-lg-8 gx-xl-12 align-items-center">
+                        <div class="col-lg-5 ms-auto col-xl-4 d-none d-lg-flex">
+                            <div class="img-mask mask-3"><img src="./assets/img/photos/about28.jpg"
+                                    srcset="./assets/img/photos/about28@2x.jpg 2x" alt="" /></div>
                         </div>
-                      </div>
-                    </blockquote>
-                  </div>
-                  <!--/.swiper-slide -->
-                  <div class="swiper-slide">
-                    <span class="ratings five mb-3"></span>
-                    <blockquote class="border-0 fs-lg mb-0">
-                      <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
-                      <div class="blockquote-details">
-                        <div class="info ps-0">
-                          <h5 class="mb-1">Nikolas Brooten</h5>
-                          <p class="mb-0">Sales Manager</p>
+                        <!--/column -->
+                        <div class="col-lg-6 col-xl-6 col-xxl-5 me-auto">
+                            <div class="swiper-container dots-start dots-closer mb-6" data-margin="30" data-dots="true">
+                                <div class="swiper">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <span class="ratings five mb-3"></span>
+                                            <blockquote class="border-0 fs-lg mb-0">
+                                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
+                                                    auctor. Vestibulum ligula porta felis euismod semper. Cras justo
+                                                    odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
+                                                <div class="blockquote-details">
+                                                    <div class="info ps-0">
+                                                        <h5 class="mb-1">Coriss Ambady</h5>
+                                                        <p class="mb-0">Financial Analyst</p>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!--/.swiper-slide -->
+                                        <div class="swiper-slide">
+                                            <span class="ratings five mb-3"></span>
+                                            <blockquote class="border-0 fs-lg mb-0">
+                                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
+                                                    auctor. Vestibulum ligula porta felis euismod semper. Cras justo
+                                                    odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
+                                                <div class="blockquote-details">
+                                                    <div class="info ps-0">
+                                                        <h5 class="mb-1">Cory Zamora</h5>
+                                                        <p class="mb-0">Marketing Specialist</p>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!--/.swiper-slide -->
+                                        <div class="swiper-slide">
+                                            <span class="ratings five mb-3"></span>
+                                            <blockquote class="border-0 fs-lg mb-0">
+                                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
+                                                    auctor. Vestibulum ligula porta felis euismod semper. Cras justo
+                                                    odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
+                                                <div class="blockquote-details">
+                                                    <div class="info ps-0">
+                                                        <h5 class="mb-1">Nikolas Brooten</h5>
+                                                        <p class="mb-0">Sales Manager</p>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!--/.swiper-slide -->
+                                    </div>
+                                    <!--/.swiper-wrapper -->
+                                </div>
+                                <!-- /.swiper -->
+                            </div>
+                            <!-- /.swiper-container -->
                         </div>
-                      </div>
-                    </blockquote>
-                  </div>
-                  <!--/.swiper-slide -->
+                        <!--/column -->
+                    </div>
+                    <!--/.row -->
                 </div>
-                <!--/.swiper-wrapper -->
-              </div>
-              <!-- /.swiper -->
+                <!--/.card-body -->
             </div>
-            <!-- /.swiper-container -->
-          </div>
-          <!--/column -->
+            <!--/.card -->
         </div>
-        <!--/.row -->
-      </div>
-      <!--/.card-body -->
-    </div>
-    <!--/.card -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-<section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-lg-8 gx-xl-12 gy-10">
-      <div class="col-lg-6 mb-0">
-        <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
-        <h3 class="display-5 mb-4">If you don't see an answer to your question, you can send us an email from our contact form.</h3>
-        <!-- <p class="lead mb-6">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare.</p> -->
-        <a href="#" class="btn btn-primary rounded-pill">All FAQ</a>
-      </div>
-      <!--/column -->
-      <div class="col-lg-6">
-        <div id="accordion-3" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-3-1">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I get my subscription receipt?</button>
+        <!-- /.container -->
+    </section>
+    <!-- /section -->
+    <section class="wrapper bg-light">
+        <div class="container pt-14 pt-md-16">
+            <div class="row mb-3">
+                <div class="col-md-10 col-lg-12 col-xl-10 col-xxl-9 mx-auto text-center">
+                    <h2 class="fs-15 text-uppercase text-muted mb-3">Our Team</h2>
+                    <h3 class="display-4 mb-7 px-lg-19 px-xl-18">Think unique and be innovative. Make a difference with
+                        Sandbox.</h3>
+                </div>
+                <!--/column -->
             </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
-              <div class="card-body">
-                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
-              </div>
-              <!-- /.card-body -->
+            <!--/.row -->
+            <div class="row grid-view gx-md-8 gx-xl-10 gy-8 gy-lg-0">
+                <div class="col-md-6 col-lg-3">
+                    <div class="position-relative">
+                        <div class="shape rounded bg-soft-blue rellax d-md-block" data-rellax-speed="0"
+                            style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                        <div class="card">
+                            <figure class="card-img-top"><img class="img-fluid" src="./assets/img/avatars/t1.jpg"
+                                    srcset="./assets/img/avatars/t1@2x.jpg 2x" alt="" /></figure>
+                            <div class="card-body px-6 py-5">
+                                <h4 class="mb-1">Coriss Ambady</h4>
+                                <p class="mb-0">Financial Analyst</p>
+                            </div>
+                            <!--/.card-body -->
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /div -->
+                </div>
+                <!--/column -->
+                <div class="col-md-6 col-lg-3">
+                    <div class="position-relative">
+                        <div class="shape rounded bg-soft-red rellax d-md-block" data-rellax-speed="0"
+                            style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                        <div class="card">
+                            <figure class="card-img-top"><img class="img-fluid" src="./assets/img/avatars/t2.jpg"
+                                    srcset="./assets/img/avatars/t2@2x.jpg 2x" alt="" /></figure>
+                            <div class="card-body px-6 py-5">
+                                <h4 class="mb-1">Cory Zamora</h4>
+                                <p class="mb-0">Marketing Specialist</p>
+                            </div>
+                            <!--/.card-body -->
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /div -->
+                </div>
+                <!--/column -->
+                <div class="col-md-6 col-lg-3">
+                    <div class="position-relative">
+                        <div class="shape rounded bg-soft-green rellax d-md-block" data-rellax-speed="0"
+                            style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                        <div class="card">
+                            <figure class="card-img-top"><img class="img-fluid" src="./assets/img/avatars/t3.jpg"
+                                    srcset="./assets/img/avatars/t3@2x.jpg 2x" alt="" /></figure>
+                            <div class="card-body px-6 py-5">
+                                <h4 class="mb-1">Nikolas Brooten</h4>
+                                <p class="mb-0">Sales Manager</p>
+                            </div>
+                            <!--/.card-body -->
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /div -->
+                </div>
+                <!--/column -->
+                <div class="col-md-6 col-lg-3">
+                    <div class="position-relative">
+                        <div class="shape rounded bg-soft-violet rellax d-md-block" data-rellax-speed="0"
+                            style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                        <div class="card">
+                            <figure class="card-img-top"><img class="img-fluid" src="./assets/img/avatars/t4.jpg"
+                                    srcset="./assets/img/avatars/t4@2x.jpg 2x" alt="" /></figure>
+                            <div class="card-body px-6 py-5">
+                                <h4 class="mb-1">Jackie Sanders</h4>
+                                <p class="mb-0">Investment Planner</p>
+                            </div>
+                            <!--/.card-body -->
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /div -->
+                </div>
+                <!--/column -->
             </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-3-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Are there any discounts for people in need?</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
-              <div class="card-body">
-                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-3-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Do you offer a free trial edit?</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
-              <div class="card-body">
-                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-3-4">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do I reset my Account password?</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
-              <div class="card-body">
-                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
+            <!--/.row -->
         </div>
-        <!-- /.accordion-wrapper -->
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
+        <!-- /.container -->
+    </section>
+    <!-- /section -->
+    <section class="wrapper bg-light">
+        <div class="container py-14 py-md-16">
+            <div class="row gx-lg-8 gx-xl-12 gy-10">
+                <div class="col-lg-6 mb-0">
+                    <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
+                    <h3 class="display-5 mb-4">If you don't see an answer to your question, you can send us an email
+                        from our contact form.</h3>
+                    <!-- <p class="lead mb-6">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare.</p> -->
+                    <a href="#" class="btn btn-primary rounded-pill">All FAQ</a>
+                </div>
+                <!--/column -->
+                <div class="col-lg-6">
+                    <div id="accordion-3" class="accordion-wrapper">
+                        <div class="card accordion-item">
+                            <div class="card-header" id="accordion-heading-3-1">
+                                <button class="collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#accordion-collapse-3-1" aria-expanded="false"
+                                    aria-controls="accordion-collapse-3-1">How do I get my subscription
+                                    receipt?</button>
+                            </div>
+                            <!-- /.card-header -->
+                            <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1"
+                                data-bs-target="#accordion-3">
+                                <div class="card-body">
+                                    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+                                        fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet
+                                        fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                                        mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
+                                </div>
+                                <!-- /.card-body -->
+                            </div>
+                            <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                        <div class="card accordion-item">
+                            <div class="card-header" id="accordion-heading-3-2">
+                                <button class="collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#accordion-collapse-3-2" aria-expanded="false"
+                                    aria-controls="accordion-collapse-3-2">Are there any discounts for people in
+                                    need?</button>
+                            </div>
+                            <!-- /.card-header -->
+                            <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2"
+                                data-bs-target="#accordion-3">
+                                <div class="card-body">
+                                    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+                                        fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet
+                                        fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                                        mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
+                                </div>
+                                <!-- /.card-body -->
+                            </div>
+                            <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                        <div class="card accordion-item">
+                            <div class="card-header" id="accordion-heading-3-3">
+                                <button class="collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#accordion-collapse-3-3" aria-expanded="false"
+                                    aria-controls="accordion-collapse-3-3">Do you offer a free trial edit?</button>
+                            </div>
+                            <!-- /.card-header -->
+                            <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3"
+                                data-bs-target="#accordion-3">
+                                <div class="card-body">
+                                    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+                                        fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet
+                                        fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                                        mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
+                                </div>
+                                <!-- /.card-body -->
+                            </div>
+                            <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                        <div class="card accordion-item">
+                            <div class="card-header" id="accordion-heading-3-4">
+                                <button class="collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#accordion-collapse-3-4" aria-expanded="false"
+                                    aria-controls="accordion-collapse-3-4">How do I reset my Account password?</button>
+                            </div>
+                            <!-- /.card-header -->
+                            <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4"
+                                data-bs-target="#accordion-3">
+                                <div class="card-body">
+                                    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+                                        fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet
+                                        fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                                        mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
+                                </div>
+                                <!-- /.card-body -->
+                            </div>
+                            <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /.accordion-wrapper -->
+                </div>
+                <!--/column -->
+            </div>
+            <!--/.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+    <!-- /section -->
+
     <?php include "components/footer.php"; ?>
 </div>
 <?php include "components/script.php"; ?>

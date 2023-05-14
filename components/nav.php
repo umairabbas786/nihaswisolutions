@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg extended extended-alt navbar-light navbar-bg-light">
     <div class="container flex-lg-column">
         <div class="topbar d-flex flex-row justify-content-lg-center align-items-center">
-            <div class="navbar-brand"><a href="index.php"><img src="./assets/img/logo.png"
-                        srcset="./assets/img/logo@2x.png 2x" alt=""></a></div>
+            <div class="navbar-brand"><a href="index.php">
+                <img src="./assets/img/logo.png" srcset="./assets/img/logo.png 2x" alt=""></a></div>
         </div>
         <!-- /.d-flex -->
         <div class="navbar-collapse-wrapper bg-white d-flex flex-row align-items-center justify-content-between">
@@ -23,11 +23,11 @@
                 </div>
                 <div class="offcanvas-body d-flex flex-column h-100">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">What We Do</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Our Services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="portfolio.php">Our Projects</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
                     </ul>
                     <!-- /.navbar-nav -->
                     <div class="offcanvas-footer d-lg-none">
