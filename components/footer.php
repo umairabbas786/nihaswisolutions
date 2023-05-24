@@ -1,4 +1,5 @@
 <footer class="bg-soft-primary mt-5 pt-5">
+<?php if(basename($_SERVER['PHP_SELF']) != 'contact.php'){?>
   <div class="container">
     <div class="row">
       <div class="col-xl-11 col-xxl-10 mx-auto">
@@ -15,6 +16,7 @@
     </div>
     <!-- /.row -->
   </div>
+  <?php }?>
   <div class="container pb-12 text-center">
     <div class="row mt-n10 mt-lg-0">
       <div class="col-xl-10 mx-auto">
