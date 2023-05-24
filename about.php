@@ -22,7 +22,7 @@
                     <h2 class="display-4 mb-3">Our Goal is Client's Success?</h2>
                     <p class="lead fs-lg">We are a digital and branding company that believes in the power of creative
                         strategy and along with great design.</p>
-                    <p class="lead fs-lg">We provide<strong> digital Mrketing Services</strong> for startups to
+                    <p class="lead fs-lg">We provide<strong> Digital Marketing Services </strong> for startups to
                         enterprises looking for a partner for their digital presence. We work with you, not for you</p>
                     <div class="row gx-xl-10 gy-6">
                         <div class="col-md-12">
