@@ -77,8 +77,9 @@
                                 <img src="./assets/img/icons/lineal/search-2.svg"
                                     class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="" />
                                 <h4>SEO Services</h4>
-                                <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
-                                    gravida at eget metus cras justo.</p>
+                                <p class="mb-2">Search engine optimization is the process of improving the quality and
+                                    quantity of website traffic to a website or a web page from search engines. SEO
+                                    targets unpaid traffic rather than direct traffic or paid traffic.</p>
                                 <!-- <a href="#" class="more hover link-yellow">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
@@ -92,8 +93,10 @@
                                 <img src="./assets/img/icons/lineal/browser.svg"
                                     class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="" />
                                 <h4>Web Design</h4>
-                                <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
-                                    gravida at eget metus cras justo.</p>
+                                <p class="mb-2">Web design encompassess many different skills and disciplines in the
+                                    production and maintenance of websites. The defferent areas of web design include
+                                    web graphic design; user interface design; authoring, including standardized code
+                                    and propeietary software; user experience design..</p>
                                 <!-- <a href="#" class="more hover link-red">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
@@ -107,8 +110,9 @@
                                 <img src="./assets/img/icons/lineal/chat-2.svg"
                                     class="svg-inject icon-svg icon-svg-md text-green mb-3" alt="" />
                                 <h4>Social Engagement</h4>
-                                <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
-                                    gravida at eget metus cras justo.</p>
+                                <p class="mb-2">Social engagement is the degree of participation and communication and
+                                    individual has within an online community. The goal of social engagementis to form
+                                    an emotional connection between the individual and the community.</p>
                                 <!-- <a href="#" class="more hover link-green">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
@@ -122,8 +126,9 @@
                                 <img src="./assets/img/icons/lineal/megaphone.svg"
                                     class="svg-inject icon-svg icon-svg-md text-blue mb-3" alt="" />
                                 <h4>Content Marketing</h4>
-                                <p class="mb-2">Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta
-                                    gravida at eget metus cras justo.</p>
+                                <p class="mb-2">Content marketing is a marketing strategy used to attract, engage, and
+                                    retain an audiance by creating and sharing relevant articles, videos, podcasts, and
+                                    other media.</p>
                                 <!-- <a href="#" class="more hover link-blue">Learn More</a> -->
                             </div>
                             <!--/.card-body -->
@@ -160,7 +165,7 @@
                                 </div>
                                 <div>
                                     <h4 class="mb-1">Collect Ideas</h4>
-                                    <p class="mb-0">Nulla vitae elit libero pharetra augue dapibus.</p>
+                                    <p class="mb-0">Good ideas and resources come and go randomly, Grab and utilize it in better way.</p>
                                 </div>
                             </div>
                         </div>
@@ -176,7 +181,7 @@
                                 </div>
                                 <div>
                                     <h4 class="mb-1">Data Analysis</h4>
-                                    <p class="mb-0">Vivamus sagittis lacus vel augue laoreet.</p>
+                                    <p class="mb-0">Data analysis is the process of systematically applying statistical or logical techniques to describe, illustrate and evaluate data.</p>
                                 </div>
                             </div>
                         </div>
@@ -192,7 +197,7 @@
                                 </div>
                                 <div>
                                     <h4 class="mb-1">Finalize Product</h4>
-                                    <p class="mb-0">Cras mattis consectetur purus sit amet.</p>
+                                    <p class="mb-0">Product finalization can be a daunting task, but it is one of the most important steps in making sure that a startup succeeds.</p>
                                 </div>
                             </div>
                         </div>
@@ -205,12 +210,17 @@
                     <h2 class="display-6 mb-3">How It Works?</h2>
                     <p class="lead fs-lg pe-lg-5">Find out everything you need to know and more about how we create our
                         business process models.</p>
-                    <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem
-                        malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam
-                        quis risus eget urna mollis ornare.</p>
-                    <p class="mb-6">Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta
-                        felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est
-                        at lobortis. Vestibulum id ligula porta felis.</p>
+                    <p>Digital marketing consists of all the marketing efforts done using electronic devices or the internet. Digital marketers and businesses leverage various digital channels such as search engines social media, email, and other websites to connect with current and prospective customers.</p>
+                    <p class="mb-6">The types of Digital Marketing are many. But we use effective methods to do</p>
+                    <ul>
+                        <li>Search Engine Optimization</li>
+                        <li>Content Marketing</li>
+                        <li>Social Media Marketing</li>
+                        <li>Pay-per-Click Marketing</li>
+                        <li>Email Marketing</li>
+                        <li>Digital boarding</li>
+                        <li>Word of mouth</li>
+                    </ul>
                 </div>
                 <!--/column -->
             </div>
@@ -219,91 +229,6 @@
         <!-- /.container -->
     </section>
     <!-- /section -->
-    <section class="wrapper bg-light">
-        <div class="container pt-14 pt-md-16">
-            <div class="card bg-soft-primary  p-5 nded-4">
-                <div class="card-body py-0 px-lg-0">
-                    <div class="row text-center">
-                        <div class="col-lg-8 offset-lg-2">
-                            <h2 class="fs-16 text-uppercase text-primary mb-3">Happy Customers</h2>
-                            <h3 class="display-4 mb-10 px-xxl-10">Don't take our word for it. See what customers are
-                                saying about us.</h3>
-                        </div>
-                        <!-- /column -->
-                    </div>
-                    <!-- /.row -->
-                    <div class="row gx-lg-8 gx-xl-12 align-items-center">
-                        <div class="col-lg-5 ms-auto col-xl-4 d-none d-lg-flex">
-                            <div class="img-mask mask-3"><img src="./assets/img/photos/about28.jpg"
-                                    srcset="./assets/img/photos/about28@2x.jpg 2x" alt="" /></div>
-                        </div>
-                        <!--/column -->
-                        <div class="col-lg-6 col-xl-6 col-xxl-5 me-auto">
-                            <div class="swiper-container dots-start dots-closer mb-6" data-margin="30" data-dots="true">
-                                <div class="swiper">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <span class="ratings five mb-3"></span>
-                                            <blockquote class="border-0 fs-lg mb-0">
-                                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
-                                                    auctor. Vestibulum ligula porta felis euismod semper. Cras justo
-                                                    odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
-                                                <div class="blockquote-details">
-                                                    <div class="info ps-0">
-                                                        <h5 class="mb-1">Coriss Ambady</h5>
-                                                        <p class="mb-0">Financial Analyst</p>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!--/.swiper-slide -->
-                                        <div class="swiper-slide">
-                                            <span class="ratings five mb-3"></span>
-                                            <blockquote class="border-0 fs-lg mb-0">
-                                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
-                                                    auctor. Vestibulum ligula porta felis euismod semper. Cras justo
-                                                    odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
-                                                <div class="blockquote-details">
-                                                    <div class="info ps-0">
-                                                        <h5 class="mb-1">Cory Zamora</h5>
-                                                        <p class="mb-0">Marketing Specialist</p>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!--/.swiper-slide -->
-                                        <div class="swiper-slide">
-                                            <span class="ratings five mb-3"></span>
-                                            <blockquote class="border-0 fs-lg mb-0">
-                                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
-                                                    auctor. Vestibulum ligula porta felis euismod semper. Cras justo
-                                                    odio consectetur nulla dapibus curabitur blandit faucibus.”</p>
-                                                <div class="blockquote-details">
-                                                    <div class="info ps-0">
-                                                        <h5 class="mb-1">Nikolas Brooten</h5>
-                                                        <p class="mb-0">Sales Manager</p>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!--/.swiper-slide -->
-                                    </div>
-                                    <!--/.swiper-wrapper -->
-                                </div>
-                                <!-- /.swiper -->
-                            </div>
-                            <!-- /.swiper-container -->
-                        </div>
-                        <!--/column -->
-                    </div>
-                    <!--/.row -->
-                </div>
-                <!--/.card-body -->
-            </div>
-            <!--/.card -->
-        </div>
-        <!-- /.container -->
-    </section>
     <!-- /section -->
     <section class="wrapper bg-light">
         <div class="container pt-14 pt-md-16">
@@ -311,7 +236,7 @@
                 <div class="col-md-10 col-lg-12 col-xl-10 col-xxl-9 mx-auto text-center">
                     <h2 class="fs-15 text-uppercase text-muted mb-3">Our Team</h2>
                     <h3 class="display-4 mb-7 px-lg-19 px-xl-18">Think unique and be innovative. Make a difference with
-                        Sandbox.</h3>
+                        Nihaswi solutions.</h3>
                 </div>
                 <!--/column -->
             </div>
@@ -417,11 +342,7 @@
                             <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1"
                                 data-bs-target="#accordion-3">
                                 <div class="card-body">
-                                    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-                                        fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet
-                                        fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-                                        mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
+                                    <p>Your receipt will be including GST with all the charges, Do visit to our office for your subscription plan and benefits.</p>
                                 </div>
                                 <!-- /.card-body -->
                             </div>
@@ -439,11 +360,7 @@
                             <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2"
                                 data-bs-target="#accordion-3">
                                 <div class="card-body">
-                                    <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
-                                        fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet
-                                        fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-                                        mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.</p>
+                                    <p>Yes we do provide minor discounts for ideal startups with an agreement of pay later option.</p>
                                 </div>
                                 <!-- /.card-body -->
                             </div>
