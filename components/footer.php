@@ -24,7 +24,7 @@
           <div class="col-md-4">
             <div class="widget">
               <h4 class="widget-title">Address</h4>
-              <address>Moonshine St. 14/05 <br class="d-none d-md-block" /> Light City, London, UK</address>
+              <address>lakshmi park view app, Mayuri nagar,<br class="d-none d-md-block" /> Miyapur, Hyderabad 500049</address>
             </div>
             <!-- /.widget -->
           </div>
@@ -32,7 +32,7 @@
           <div class="col-md-4">
             <div class="widget">
               <h4 class="widget-title">Phone</h4>
-              <p>00 (123) 456 78 90 <br />00 (987) 654 32 10</p>
+              <p>040-79698256</p>
             </div>
             <!-- /.widget -->
           </div>
